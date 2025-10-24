@@ -28,7 +28,7 @@ export default function MacBookModel16(props) {
           }
         }
       })
-    })
+    },[color,scene])
 
   return (
 
